@@ -1,0 +1,27 @@
+{
+  "name": "@is-(unknown)/is-undefined",
+  "version": "1.0.0",
+  "description": "Checks if a value is undefined.",
+  "keywords": [
+    "is",
+    "undefined"
+  ],
+  "homepage": "https://github.com/is-unknown/is-undefined#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-undefined/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-undefined.git"
+  },
+  "license": "MIT",
+  "author": "Is-Unknown",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@technically/is-not-undefined": "^1.0.0"
+  }
+}
