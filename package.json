@@ -1,6 +1,6 @@
 {
   "name": "@is-(unknown)/is-undefined",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Checks if a value is undefined.",
   "keywords": [
     "is",
